@@ -8,6 +8,7 @@ Objective : POC for complete end to end ML pipeline which covers follwoing
 Scope:
 
 1.These are not production grade codes
+
 2.The purpose is for a demo considering all integrations
 
 Future Work:
