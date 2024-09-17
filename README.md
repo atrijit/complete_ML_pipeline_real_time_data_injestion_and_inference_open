@@ -17,8 +17,9 @@ Future Work:
 3. more work on scaling
 
 Disclaimer: 
-This is an independent project where personal resources are used.
-Gen AI tools are also leveraged 
+
+1. This is an independent project where personal resources are used.
+2. Gen AI tools are also leveraged 
 
 Architecture :
 
