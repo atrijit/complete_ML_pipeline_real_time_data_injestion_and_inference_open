@@ -18,7 +18,7 @@ Future Work:
 
 Disclaimer: 
 
-1. This is an independent project where personal resources are used.
+1. This is an independent personal work where personal resources are used.
 2. Gen AI tools are also leveraged 
 
 Architecture :
